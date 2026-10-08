@@ -11,14 +11,11 @@
   <img alt="Open to projects and contracts" src="https://img.shields.io/badge/Open%20to-Projects%20%26%20contracts-14B8A6?style=for-the-badge">
 </p>
 
-
-<!-- <p align="center"><img src="./assets/photo.jpg" alt="Michael" width="140"></p> -->
-
 <p align="center"><b>Hi, I'm Michael Osarodion.</b> Businesses come to me when they have a problem that software should already be solving. I talk to the people who will use it, build it in pieces you can try as we go, and hand it over working and written up, so your team is never stuck waiting on me.</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
-  <img alt="Live platforms in 4 sectors: public sector, building safety, finance and education. Document reading cut from over 90 seconds to under 25. 400+ files moved to Python 3. About 1,500 automated tests kept passing. Delivered inside a public sector team. AWS DevOps Professional and CKAD certified." src="./assets/stats-light.svg" width="100%">
+  <img alt="Live platforms in 4 sectors: public sector, building safety, finance and education. Document reading cut from over 90 seconds to under 25. 400+ files moved to Python 3. About 1,500 automated tests kept passing. Delivered inside a public sector team. AWS DevOps Professional, CKAD and SnowPro Core certified." src="./assets/stats-light.svg" width="100%">
 </picture>
 
 <picture>
@@ -50,7 +47,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/work-dark.svg">
-  <img alt="Building safety: safety paperwork read for you and confirmed by a person. Finance and tax: any invoice in one clean format, under 25 seconds instead of over 90. Public sector: one sign-in, every step saved as you go. Education technology: 400+ files moved from Python 2 to Python 3." src="./assets/work-light.svg" width="100%">
+  <img alt="Multi-Tenant Building Safety Platform: safety paperwork read for you and confirmed by a person. Finance and tax: any invoice in one clean format, under 25 seconds instead of over 90. Public sector: one sign-in, every step saved as you go. Education technology: 400+ files moved from Python 2 to Python 3. Cloud platform and security: a bulky, slow-booting desktop image that was hard to patch, rebuilt into lean images up to Nvidia GPU that start quicker and are patched in one place, with one audited log feed. Financial services: reusable web components for a financial advisors platform." src="./assets/work-light.svg" width="100%">
 </picture>
 
 <p align="center"><sub>Client names and code stay private. Happy to walk you through any of these on a call.</sub></p>
@@ -60,13 +57,14 @@
 >
 > | Project | What the write-up shows |
 > |---|---|
-> | **[Multi-tenant building safety platform](https://www.twine.net/mokoh/c21aap0/multi-tenant-building-safety-platform-ai-extraction-with-human-review)** | Many client organisations on one system, documents read into fields, a person confirming every value |
-> | **[Invoice processing service](https://www.twine.net/mokoh/c1yzia0/invoice-processing-api-reading-documents-into-finance-systems)** | Reading cut from over 90 seconds to under 25, hosting at about 13 dollars a month for 100,000 invoices, automatic switching between AI providers, C4 diagrams |
-> | **[Enterprise document management platform](https://www.twine.net/mokoh/c1yzib0/enterprise-document-management-and-compliance-platform)** | Engineers' reports built from a form, a review and approval step, a dashboard of what is where |
+> | **[Multi-Tenant Building Safety Platform](https://www.twine.net/mokoh/c21aap0/multi-tenant-building-safety-platform-ai-extraction-with-human-review)** | Many client organisations on one system, documents read into fields, a person confirming every value |
+> | **[Invoice Processing API, reading documents into finance systems](https://www.twine.net/mokoh/c1yzia0/invoice-processing-api-reading-documents-into-finance-systems)** | Reading cut from over 90 seconds to under 25, hosting at about 13 dollars a month for 100,000 invoices, automatic switching between AI providers, C4 diagrams |
+> | **[Enterprise Document Management and Compliance Platform](https://www.twine.net/mokoh/c1yzib0/enterprise-document-management-and-compliance-platform)** | Engineers' reports built from a form, a review and approval step, a dashboard of what is where |
 
 
 <h3 align="center">What a client said</h3>
 <p align="center"><img src="./assets/recommendation.png" alt="A written recommendation from a client" width="720"></p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/head-process-dark.svg">
