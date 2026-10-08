@@ -11,7 +11,10 @@
   <img alt="Open to projects and contracts" src="https://img.shields.io/badge/Open%20to-Projects%20%26%20contracts-14B8A6?style=for-the-badge">
 </p>
 
-<p align="center"><b>Hi, I'm Michael Okoh.</b> Businesses come to me when they have a problem that software should already be solving. I talk to the people who will use it, build it in pieces you can try as we go, and hand it over working and written up, so your team is never stuck waiting on me.</p>
+
+<!-- <p align="center"><img src="./assets/photo.jpg" alt="Michael" width="140"></p> -->
+
+<p align="center"><b>Hi, I'm Michael Osarodion.</b> Businesses come to me when they have a problem that software should already be solving. I talk to the people who will use it, build it in pieces you can try as we go, and hand it over working and written up, so your team is never stuck waiting on me.</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
@@ -51,6 +54,19 @@
 </picture>
 
 <p align="center"><sub>Client names and code stay private. Happy to walk you through any of these on a call.</sub></p>
+
+> [!TIP]
+> **Want the full story?** Each project has its own public write-up, covering the parts most people never see:
+>
+> | Project | What the write-up shows |
+> |---|---|
+> | **[Multi-tenant building safety platform](https://www.twine.net/mokoh/c21aap0/multi-tenant-building-safety-platform-ai-extraction-with-human-review)** | Many client organisations on one system, documents read into fields, a person confirming every value |
+> | **[Invoice processing service](https://www.twine.net/mokoh/c1yzia0/invoice-processing-api-reading-documents-into-finance-systems)** | Reading cut from over 90 seconds to under 25, hosting at about 13 dollars a month for 100,000 invoices, automatic switching between AI providers, C4 diagrams |
+> | **[Enterprise document management platform](https://www.twine.net/mokoh/c1yzib0/enterprise-document-management-and-compliance-platform)** | Engineers' reports built from a form, a review and approval step, a dashboard of what is where |
+
+
+<h3 align="center">What a client said</h3>
+<p align="center"><img src="./assets/recommendation.png" alt="A written recommendation from a client" width="720"></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/head-process-dark.svg">
@@ -95,12 +111,12 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,django,fastapi,flask,nodejs,react,nextjs,ts,tailwind,angular&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cdjango%2Cfastapi%2Cflask%2Cnodejs%2Creact%2Cnextjs%2Cts%2Ctailwind%2Cangular&theme=dark">
     <img alt="Python, Django, FastAPI, Flask, Node.js, React, Next.js, TypeScript, Tailwind CSS, Angular" src="https://skillicons.dev/icons?i=py,django,fastapi,flask,nodejs,react,nextjs,ts,tailwind,angular&theme=light">
   </picture>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,aws,docker,kubernetes,terraform,githubactions,linux&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Cmysql%2Cmongodb%2Credis%2Crabbitmq%2Caws%2Cdocker%2Ckubernetes%2Cterraform%2Cgithubactions%2Clinux&theme=dark">
     <img alt="PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, AWS, Docker, Kubernetes, Terraform, GitHub Actions, Linux" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,aws,docker,kubernetes,terraform,githubactions,linux&theme=light">
   </picture>
 </p>
@@ -115,3 +131,5 @@
   <img alt="Got something that needs building? Send two lines: what is slowing you down, and when you need it fixed. Email me." src="./assets/contact-light.svg" width="100%">
 </picture>
 </a>
+
+<p align="center"><sub>© 2026 Lumemic Labs. All rights reserved. This page is not open source. Its words, images and diagrams may not be copied or reused without written permission. See <a href="./LICENSE">LICENSE</a>.</sub></p>

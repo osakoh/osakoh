@@ -1,0 +1,4 @@
+*.png
+*SETUP*
+*build_*
+!assets/recommendation.png
